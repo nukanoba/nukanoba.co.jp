@@ -1,0 +1,19 @@
+{
+  "$schema_note": "問い合わせ情報の正本データ。NUKANOBA本体サイトと大助さんLP共通。",
+  "generalEmail": "info@nukanoba.co.jp",
+  "drumServiceEmail": "daisukeitoh-info@nukanoba.co.jp",
+  "phoneNumber": "050-6860-6684",
+  "contactFormUrl": null,
+  "lineUrl": "https://lin.ee/V4wcbtj",
+  "notes": "会社全般・法人取引に関する問い合わせは info@nukanoba.co.jp。伊藤大助のドラム・リズム相談室に関する問い合わせは daisukeitoh-info@nukanoba.co.jp。個人レッスンの相談・予約は公式LINEから。電話: 050-6860-6684。問い合わせフォームは初期公開時点では設置しない。",
+  "social": {
+    "youtube": {
+      "handle": "@daisukeitoh_drums",
+      "url": "https://www.youtube.com/@daisukeitoh_drums"
+    },
+    "line": {
+      "accountName": "伊藤大助のドラム・リズム相談室",
+      "url": "https://lin.ee/V4wcbtj"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "$schema_note": "伊藤大助のドラム・リズム相談室 サービス情報の正本データ。LP・特商法・決済審査の単一ソース。",
+  "serviceName": "伊藤大助のドラム・リズム相談室",
+  "slug": "daisukeitoh_drums",
+  "displayName": "伊藤大助のドラム・リズム相談室",
+  "serviceDescription": "プロドラマー伊藤大助による、ドラム・リズム学習者向けの情報発信、対面個人レッスン、イベントの運営。公式LINEを通じて無料譜面PDFの配布、個人レッスンの相談・予約、オフラインイベントの申込を受け付けている。",
+  "operator": "株式会社NUKANOBA",
+  "positioningOnNukanobaSite": "NUKANOBAが運営する教育・表現・コミュニティ領域の自社運営プロジェクト。最小露出方針: NUKANOBA本体サイトから大助さんLPへの直接リンクは初期公開時点では置かない。",
+  "lpPath": "/projects/daisukeitoh_drums/",
+  "legalPath": "/legal/daisukeitoh_drums/",
+  "accessPolicy": {
+    "description": "直リンク中心でアクセスされるLP",
+    "primaryAccessSources": [
+      "公式LINE",
+      "YouTube概要欄",
+      "SNS",
+      "決済審査提出URL",
+      "個別案内"
+    ],
+    "corporateSiteExposure": "最小限"
+  },
+  "visibilityOnCorporateSite": {
+    "globalNav": false,
+    "services": false,
+    "firstView": false,
+    "projects": false,
+    "footer": false
+  },
+  "instructor": {
+    "name": "伊藤大助",
+    "title": "クラムボン ドラマー / 尚美ミュージックカレッジ専門学校 ドラム講師",
+    "careerYears": 25,
+    "bio": "クラムボンというバンドでドラムを叩きながら、尚美ミュージックカレッジ専門学校での指導と、2011年から続けている個人レッスンでドラムを教えています。"
+  },
+  "lessonPrice": "9,800円（税込）",
+  "lessonPriceJpy": 9800,
+  "lessonPriceTaxIncluded": true,
+  "lessonDurationMinutes": 60,
+  "studioFeeDescription": "スタジオ代は当日実費",
+  "lessonFormat": "対面のみ",
+  "lessonLocation": "都内スタジオ等、予約確定時に案内",
+  "bookingMethod": "公式LINEから日程相談",
+  "paymentMethod": "オンライン事前決済（KOMOJUを利用予定）",
+  "paymentMethodDetail": "KOMOJU審査・設定完了後に利用可能な決済手段を確認し更新する",
+  "cancellationPolicy": {
+    "customerCancel": "支払後の顧客都合キャンセルは原則返金不可",
+    "reschedule": "対面レッスンは7日前までの連絡で1回のみ日程変更可",
+    "operatorCancel": "講師・主催・会場都合の場合は、日程変更・振替・全額返金のいずれかで対応"
+  },
+  "eventInfo": {
+    "description": "ドラムセミナーや交流イベントを不定期に開催",
+    "displayText": "ドラムセミナーや交流イベントの最新情報は、公式LINEでご案内します。開催予定や参加方法については、公式LINEよりご確認ください。",
+    "detailPolicy": "イベント詳細（日時・会場・料金・定員等）は常に変動するため、Webサイト上で固定掲載しない。最新情報は公式LINEで案内する。"
+  },
+  "freePdfInfo": {
+    "name": "基礎練習用譜面",
+    "description": "YouTubeショート「毎日基礎練」の譜面をジャンル別・難易度順に整理したPDF",
+    "deliveryMethod": "公式LINEで友だち追加時に配布",
+    "note": "パターン数は随時追加されるため、サイトに固定の数字を表示しない"
+  },
+  "lineUrl": "https://lin.ee/V4wcbtj",
+  "contactEmail": "daisukeitoh-info@nukanoba.co.jp",
+  "phoneNumber": "050-6860-6684",
+  "channels": {
+    "youtube": {
+      "handle": "@daisukeitoh_drums",
+      "url": "https://www.youtube.com/@daisukeitoh_drums"
+    },
+    "line": {
+      "url": "https://lin.ee/V4wcbtj"
+    }
+  },
+  "bookingFlow": [
+    "公式LINEで友だち追加",
+    "LINEから日程相談",
+    "スタッフが日程を調整",
+    "オンラインで事前決済",
+    "レッスン当日（対面）"
+  ]
+}
