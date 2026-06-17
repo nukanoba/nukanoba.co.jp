@@ -40,8 +40,8 @@
   "lessonFormat": "対面のみ",
   "lessonLocation": "都内スタジオ等、予約確定時に案内",
   "bookingMethod": "公式LINEから日程相談",
-  "paymentMethod": "オンライン事前決済（KOMOJUを利用予定）",
-  "paymentMethodDetail": "KOMOJU審査・設定完了後に利用可能な決済手段を確認し更新する",
+  "paymentMethod": "オンライン決済リンクを利用した事前決済",
+  "paymentMethodDetail": "決済サービス設定完了後に利用可能な決済手段を確認し更新する",
   "cancellationPolicy": {
     "customerCancel": "支払後の顧客都合キャンセルは原則返金不可",
     "reschedule": "対面レッスンは7日前までの連絡で1回のみ日程変更可",
